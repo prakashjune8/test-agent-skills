@@ -2,6 +2,9 @@
 
 Repository containing Antigravity agent skills and runbooks for software development.
 
+[![Project Status](https://img.shields.io/badge/Status-100%25%20Operational-brightgreen)](PROJECT_STATUS.md)
+See [PROJECT_STATUS.md](PROJECT_STATUS.md) for live milestone tracking and process logs.
+
 ## Included Skills
 
 ### [Full-Stack Development](.agents/skills/fullstack-development/SKILL.md)
